@@ -2,6 +2,7 @@ package com.lancoo.o2o.entity;
 
 import java.util.Date;
 
+// 用户实体类
 public class PersonInfo {
 	private Long userId;
 	private String name;
